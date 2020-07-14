@@ -22,19 +22,19 @@ Babel
   - npm start
   
 ## About Screen
-![](images/AboutScreen.png)
+![](Images/AboutScreen.png)
 
 
 ## Contact Screen
-![](images/ContactScreen.png)
+![](Images/ContactScreen.png)
 
 
 ## Form Screen
-![](images/FormScreen.png)
+![](Images/FormScreen.png)
 
 
 ## Footer
-![](images/AboutScreen.png)
+![](Images/AboutScreen.png)
 
 Let me know if you have any questions. [Email Mohamed Imran P S](mailto:mohamedimranps@gmail.com)
 
