@@ -34,7 +34,7 @@ Babel
 
 
 ## Footer
-![](Images/AboutScreen.png)
+![](Images/FooterScreen.png)
 
 Let me know if you have any questions. [Email Mohamed Imran P S](mailto:mohamedimranps@gmail.com)
 
