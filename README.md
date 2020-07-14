@@ -1,3 +1,43 @@
+# Online-Restaurant-using-ReactJS
+An online fantasy restaurant built using ReactJS
+
+## Packages and Libraries Used
+```bash
+React
+React - Redux 
+React - Strap
+Babel
+```
+## Run Locally
+
+
+- git clone https://github.com/Imran109/Online-Restaurant-using-ReactJS.git
+
+- cd Online-Restaurant-using-ReactJS
+
+- Run Frontend
+  - open new terminal
+  - cd frontend
+  - npm install
+  - npm start
+  
+## About Screen
+![](images/AboutScreen.png)
+
+
+## Contact Screen
+![](images/ContactScreen.png)
+
+
+## Form Screen
+![](images/FormScreen.png)
+
+
+## Footer
+![](images/AboutScreen.png)
+
+Let me know if you have any questions. [Email Mohamed Imran P S](mailto:mohamedimranps@gmail.com)
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
