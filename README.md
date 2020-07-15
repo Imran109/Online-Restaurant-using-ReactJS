@@ -6,6 +6,7 @@ An online fantasy restaurant built using ReactJS which provides wide range of me
 React
 React - Redux 
 React - Strap
+yarn
 Babel
 ```
 ## Run Locally
