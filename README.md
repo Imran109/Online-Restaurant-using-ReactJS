@@ -19,7 +19,7 @@ Babel
   - open new terminal
   - cd frontend
   - npm install
-  - npm start
+  - npm / yarn start
   
 ## About Screen
 ![](Images/AboutScreen.png)
