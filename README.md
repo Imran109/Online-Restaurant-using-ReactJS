@@ -1,5 +1,5 @@
 # Online-Restaurant-using-ReactJS
-An online fantasy restaurant built using ReactJS
+An online fantasy restaurant built using ReactJS which provides wide range of menu, customer reviews and feedbacks
 
 ## Packages and Libraries Used
 ```bash
