@@ -117,7 +117,8 @@ class Contact extends Component {
                                 </Col>
                             </Row>
 
-                            <Row className="form-group">
+                            <Row className="form-group"> // bhai placeholder bhi daal de
+                                
                                 <Label htmlFor="feedback" md={2}>Your feedback</Label>
                                 <Col md={10}>
                                     <Control.textarea model=".message" id="message" name="message" rows="12" className="form-control" />
