@@ -11,9 +11,7 @@ class Header extends Component{
              isModalOpen : false,
              
          };
-         this.toggleNav = this.toggleNav.bind(this);    
-         this.toggleModal = this.toggleModal.bind(this);
-         this.handleLogin = this.handleLogin.bind(this);
+            
     }
     toggleModal(){
         this.setState({
@@ -36,7 +34,7 @@ class Header extends Component{
             <>
         <Navbar dark expand="md">
           <div className="container">
-              <NavbarToggler onClick={this.toggleNav} />
+              <NavbarToggler onClick={() => this.toggleNav()} />
             <NavbarBrand className="mr-auto" href="/">
               <img src="assets/images/logo.png" height="30" width="41" alt="Ristorente Con Fusion" />
             </NavbarBrand>
@@ -88,12 +86,12 @@ class Header extends Component{
                 </div>
             </div>
         </Jumbotron>
-        <Modal isOpen={this.state.isModalOpen} toggle={this.toggleModal}>
-            <ModalHeader  toggle={this.toggleModal}>
+        <Modal isOpen={this.state.isModalOpen}>
+                <ModalHeader toggle={() => this.toggleModal()}>
                 Login
             </ModalHeader>
             <ModalBody>
-                <Form onSubmit={this.handleLogin}>
+                <Form onSubmit={() => this.handleLogin()}>
                     <FormGroup>
                         <Label htmlFor="username">
                             Username
